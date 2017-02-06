@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# extra
+bin/
+lib64
+man/
+pip-selfcheck.json
+pyvenv.cfg
+share/
