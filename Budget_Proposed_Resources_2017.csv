@@ -1,0 +1,661 @@
+Dept,FundName,RevenueTableCategory,RevenueSourceName,2015 Actuals,2016 Adopted,2017 Proposed,2018 Proposed
+12LIBLEVY,2012 Library Levy Fund (18100),Levy Revenue,Interest Earnings,110333,50000,100000,50000
+12LIBLEVY,2012 Library Levy Fund (18100),Levy Revenue,Property Tax,17283986,17340000,17513077,17688208
+12LIBLEVY,2012 Library Levy Fund (18100),Levy Revenue,Use of (Contribution To) Fund Balance,-1562341,-1482163,1500344,1745362
+ARTS,Arts Account (00140),Misc Revenues,Interest Earnings,25862,20000,20000,20000
+ARTS,Municipal Arts Fund (62600),Misc Revenues,Interest Earnings,88995,74986,77235,79552
+ARTS,Arts Account (00140),Misc Revenues,Interest Increase/Decrease,-2243,0,0,0
+ARTS,Municipal Arts Fund (62600),Misc Revenues,Interest Increase/Decrease,-9735,0,0,0
+ARTS,Arts Account (00140),Admission Tax Allocation,Interfund Transfers,5953328,6492924,7914128,9004368
+ARTS,Arts Account (00140),General Fund,Interfund Transfers,0,1500000,1300000,0
+ARTS,Arts Account (00140),Misc Revenues,Interfund Transfers,30880,31961,32000,32000
+ARTS,Arts Account (00140),Misc Revenues,Interfund Transfers,0,0,40000,40000
+ARTS,Municipal Arts Fund (62600),1% for Art Revenues,Interfund Transfers (1% for Art),4099590,3119647,3972089,3000000
+ARTS,Arts Account (00140),Misc Revenues,Misc Income,1489,0,0,0
+ARTS,Municipal Arts Fund (62600),Misc Revenues,Misc Revenues,23301,196641,202540,208616
+ARTS,Municipal Arts Fund (62600),Misc Revenues,Public Art Management Fees,227746,234622,264187,270154
+ARTS,Arts Account (00140),Use of/(Contribution to) Fund Balance,Use of/(Contribution to) Fund Balance,-367322,-34135,25265,-11342
+ARTS,Municipal Arts Fund (62600),Use of/(Contribution to) Fund Balance,Use of/(Contribution to) Fund Balance,-1785129,-339447,-1160031,-167500
+CBLFEE,Cable Television Franchise Subfund (00160),"Franchise Fees, Licenses, Permits, and Fines","Franchise Fee Revenues, Licenses, Permits, and Fines",9081788,9999314,9356315,9356315
+CBLFEE,Cable Television Franchise Subfund (00160),Interest Earnings/Investment Earnings,Interest Earnings,33320,49006,36818,27453
+CBLFEE,Cable Television Franchise Subfund (00160),Use of (Contributions to) Fund Balance,Use of (Contributions to) Fund Balance,-339240,-111939,960333,658192
+CEN,Seattle Center Fund (11410),Administration,Administration,57365,8500,30700,30700
+CEN,Seattle Center Fund (11410),Campus Grounds,Armory Concessions,1002257,1029695,1229609,1265080
+CEN,Seattle Center Fund (11410),Commercial Events,Campus Commercial Events,1826554,1210471,1685635,1678412
+CEN,Seattle Center Fund (11410),Community Programs,Campus Sponsorships,486945,285000,400000,450000
+CEN,Seattle Center Fund (11410),Administration,CIP,910961,1454184,1507449,1538226
+CEN,Seattle Center Fund (11410),Festivals,Festivals,610119,530749,701698,784591
+CEN,Seattle Center Fund (11410),McCaw Hall,General Fund - McCaw Hall,571509,571509,607684,619838
+CEN,Seattle Center Fund (11410),General Subfund Support,General Fund - McCaw Hall Debt,59125,62250,62625,62875
+CEN,Seattle Center Fund (11410),General Subfund Support,General Subfund Support,12022117,12314965,12150253,12349760
+CEN,Seattle Center Fund (11410),General Subfund Support,Judgment and Claims Allocation,0,0,223449,193984
+CEN,Seattle Center Fund (11410),KeyArena,KeyArena Concessions,953951,1172678,925859,1166253
+CEN,Seattle Center Fund (11410),KeyArena,KeyArena Miscellaneous,691038,616296,719563,720675
+CEN,Seattle Center Fund (11410),KeyArena,KeyArena Premium Seating,836100,925009,825000,825000
+CEN,Seattle Center Fund (11410),KeyArena,KeyArena Reimbursables,3409258,3186208,3649486,3956618
+CEN,Seattle Center Fund (11410),KeyArena,KeyArena Rent,628650,1225695,890232,858803
+CEN,Seattle Center Fund (11410),KeyArena,KeyArena Ticketing,1908027,1938577,1753452,1966478
+CEN,Seattle Center Fund (11410),Campus Grounds,Leases - Campus Grounds,1309423,1493310,1672167,1795055
+CEN,Seattle Center Fund (11410),Cultural Facilities,Leases - Cultural Facilities,1795629,1255342,1682058,1700819
+CEN,Seattle Center Fund (11410),McCaw Hall,McCaw Hall Catering & Concessions,331849,285023,280579,280166
+CEN,Seattle Center Fund (11410),McCaw Hall,McCaw Hall Miscellaneous,274330,211896,250087,285098
+CEN,Seattle Center Fund (11410),McCaw Hall,McCaw Hall Reimbursables,1721997,1636976,1966944,2032002
+CEN,Seattle Center Fund (11410),McCaw Hall,McCaw Hall Rent,482922,413358,376910,310329
+CEN,Seattle Center Fund (11410),McCaw Hall,McCaw Hall Tenant Use Fees,1379081,1351226,1176359,1324383
+CEN,Seattle Center Fund (11410),McCaw Hall,McCaw Hall Tenant Use Fees - Debt,59125,62250,62625,62875
+CEN,Seattle Center Fund (11410),Access,Monorail,1032219,961000,1074200,1012424
+CEN,Seattle Center Fund (11410),Access,Parking,5936233,5168301,6275720,6275791
+CEN,Seattle Center Fund (11410),Administration,Seattle Center Fund,45000,45000,145000,145000
+CEN,Seattle Center Fund (11410),Community Programs,Seattle Center Productions,158804,85000,115000,115000
+CEN,Seattle Center Fund (11410),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,-1852565,-1207998,434410,150145
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Grants,Federal Grants - CRS-U,617114,1231000,1448000,1649000
+CRS,"Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",Interest Earnings,Interest Earnings - AP,73585,50000,65000,65000
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Interest Earnings,Interest Earnings - CRS-U,786761,500000,1000000,1000000
+CRS,Cumulative Reserve Subfund - Bluefields Subaccount (00178),Interest Earnings,Interest Earnings -Bluefield,2133,2000,2000,2000
+CRS,Cumulative Reserve Subfund - South Lake Union Property Proceeds Subaccount (00167),Interest Earnings,Interest Earnings -SLU,3296,3500,3500,3500
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),King County Tax Levy,King County Tax Levy - CRSU,0,0,1500000,1500000
+CRS,"Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",Oper Tr In-Fr FAS Operating Fund,Oper Tr In-Fr FAS Oper Fund - AP,6000000,6409000,10500000,5972000
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),General Subfund Support,Oper Tr In-Fr General Fund - CRS-U,0,2700000,0,0
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Dedicated Revenues,Other Misc Revenues - CRS-U,4632398,0,0,400000
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Misc Revenues,Parking Fees - CRSU,245820,100000,50000,0
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Private Donations,Private Donations - CRSU,940644,356000,372000,426000
+CRS,Cumulative Reserve Subfund - REET I Subaccount (00163),Real Estate Excise Taxes,REET I,36590947,26760178,32975204,33846066
+CRS,Cumulative Reserve Subfund - REET II Subaccount (00161),Real Estate Excise Taxes,REET II,36590754,26760178,32975204,33846066
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Sale of Lands & Buildings,Sale of Lands & Buildings- CRSU,707931,0,0,0
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Sale of Lands & Buildings,Street Vacation -CRS-U,8783212,500000,770000,1620000
+CRS,Cumulative Reserve Subfund - Street Vacation Subaccount (00169),Sale of Lands & Buildings,Street Vacation -SV,8783212,500000,770000,1620000
+CRS,Cumulative Reserve Subfund - Bluefields Subaccount (00178),Use of Fund Balance,Use of (Contribution to) Fund Balance - Bluefield,-2133,-2000,-2000,-2000
+CRS,"Cumulative Reserve Subfund, Asset Preservation Subaccount - Fleets and Facilities (00168)",Use of Fund Balance,Use of (Contributions to) Fund Balance - AP,1928450,933372,-65000,-65000
+CRS,Cumulative Reserve Subfund - Unrestricted Subaccount (00164),Use of Fund Balance,Use of (Contributions to) Fund Balance - CRSU,-8402150,-251608,-1110975,-2157325
+CRS,Cumulative Reserve Subfund - REET II Subaccount (00161),Use of Fund Balance,Use of (Contributions to) Fund Balance - REET I,-12623005,5650897,8303797,1928935
+CRS,Cumulative Reserve Subfund - REET I Subaccount (00163),Use of Fund Balance,Use of (Contributions to) Fund Balance - REET II,-13180747,6499400,7140262,560989
+CRS,Cumulative Reserve Subfund - South Lake Union Property Proceeds Subaccount (00167),Use of Fund Balance,Use of (Contributions to) Fund Balance - SLU,-3295,94500,-3500,-3500
+CRS,Cumulative Reserve Subfund - Street Vacation Subaccount (00169),Use of Fund Balance,Use of (Contributions to) Fund Balance - SV,-7796963,5909000,-593000,-1620000
+CWI,Central Waterfront Improvement Fund,Interfund,IF OTHER CHARGES - TRANSPORTAT,3021929,0,0,0
+CWI,Central Waterfront Improvement Fund,Street Use Fees,Oper TR IN-FR C-Tran Fund,0,0,550000,0
+CWI,Central Waterfront Improvement Fund,Philanthropy,Other Private Contrib & Donatn,0,0,500000,2700000
+DEEL,Department of Education Fund,General Fund,Oper Tr IN-FR General Fund,12892932,6985124,8628893,7308132
+DEEL,Department of Education Fund,Tuition,Private Reimbursements,58170,683367,1541202,2554823
+DEEL,Department of Education Fund,State Grants,State Grants,3264709,3919371,3919371,3919371
+DEEL,Department of Education Fund,Levy Programs - Ed Levy,"Taxes, Levies, & Bonds",25951422,35069140,38261769,40887046
+DEEL,Department of Education Fund,Levy Programs - SPP,"Taxes, Levies, & Bonds",2077266,8354609,12515602,18047514
+DEEL,Department of Education Fund,2011 Families & Education Levy,Use of (Contribution to) Fund Balance,-1052424,0,0,0
+DOIT,Information Technology Fund (50410),Cable Fund,Cable Fund Allocation,8585867,4049267,0,0
+DOIT,Information Technology Fund (50410),Grants,Federal Grants - Indirect,87850,0,0,0
+DOIT,Information Technology Fund (50410),Finance - External,Interest Earnings,27660,0,0,0
+DOIT,Information Technology Fund (50410),LTGO Bonds,Long-Term General Obligation (LTGO) Bonds - Next Generation Data Center,0,2100000,0,0
+DOIT,Information Technology Fund (50410),City Agency - Non-GF,Rates,41208,0,0,0
+DOIT,Information Technology Fund (50410),City Agency - Non-GF,Rates,1099604,1249467,0,0
+DOIT,Information Technology Fund (50410),City Agency - Non-GF,Rates,1562762,418766,0,0
+DOIT,Information Technology Fund (50410),External Revenues,Rates,422,0,0,0
+DOIT,Information Technology Fund (50410),External Revenues,Rates,428323,130126,0,0
+DOIT,Information Technology Fund (50410),City Agency - GF,Rates (GF Depts),170579,0,0,0
+DOIT,Information Technology Fund (50410),City Agency - GF,Rates (GF Depts),1465590,1581277,0,0
+DOIT,Information Technology Fund (50410),City Agency - GF,Rates (GF Depts),3569027,1083779,0,0
+DOIT,Information Technology Fund (50410),Short Term Loan from City Cash Pool,Short Term Loan from City Cash Pool,0,-2100000,0,0
+DOIT,Information Technology Fund (50410),City Agency - Non-GF,Special Project Billings,626404,0,0,0
+DOIT,Information Technology Fund (50410),External Revenues,Special Project Billings,402362,0,0,0
+DOIT,Information Technology Fund (50410),Special Project Billings,Special Project Billings,0,4926288,0,0
+DOIT,Information Technology Fund (50410),City Agency - GF,Special Project Billings (GF Depts),339659,0,0,0
+DOIT,Information Technology Fund (50410),City Agency - Non-GF,Technology Allocation,19777332,10762421,0,0
+DOIT,Information Technology Fund (50410),City Agency - GF,Technology Allocation (GF Depts),13690752,7309838,0,0
+DOIT,Information Technology Fund (50410),General Subfund Support,Technology Allocation (pure GF),12966745,3875519,0,0
+DOIT,Information Technology Fund (50410),Use of (Contributions to) Fund Balance,Use of (Contributions to) Fund Balance,17663143,3397724,0,0
+DPR,Park and Recreation Fund (10200),Charges for Services,Athletic Facility Fees,2960496,2752568,3252568,3818568
+DPR,Park and Recreation Fund (10200),Charges for Services,Charges to Other City Departments,1700762,338986,338986,338986
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Concession Proceeds,41113,80000,80000,80000
+DPR,Park and Recreation Fund (10200),Charges for Services,Exhibit Admission Fees,39280,378972,378972,378972
+DPR,Park and Recreation Fund (10200),Intergovernmental,Federal Grants - Direct,79601,0,0,0
+DPR,Park and Recreation Fund (10200),General Subfund Support,General Subfund Support,91757322,96478558,103217982,106757994
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Interfund Building/Other Space Rental,72000,72000,72000,72000
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Interfund Other Rent and Use,210665,255000,255000,255000
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Judgments & Settlements,29716,0,0,0
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,LT Space/Facilities Leases,743443,1345441,1345441,1345441
+DPR,Park and Recreation Fund (10200),Charges for Services,Miscellaneous Charges and Fees,322038,26500,26500,26500
+DPR,Park and Recreation Fund (10200),Charges for Services,Miscellaneous Revenue,140123,125899,777245,888297
+DPR,Park and Recreation Fund (10200),Charges for Services,Miscellaneous Revenue,5444311,20000,0,0
+DPR,Park and Recreation Fund (10200),Charges for Services,Parking Fees,69782,44892,68892,68892
+DPR,Park and Recreation Fund (10200),Intergovernmental,Private Contributions,116264,452400,452400,452400
+DPR,Park and Recreation Fund (10200),Charges for Services,Program Fees,3673688,3602818,3928818,3928818
+DPR,Park and Recreation Fund (10200),Charges for Services,Recreation admission fees,2407891,2057670,2055170,2055170
+DPR,Park and Recreation Fund (10200),Charges for Services,Recreation Shared Revenues - ARC,532602,851605,851605,851605
+DPR,Park and Recreation Fund (10200),Charges for Services,Recreational Activity Fees,11418159,12612941,12831941,13081941
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Rents and Use Charges,1587014,547629,547629,547629
+DPR,Park and Recreation Fund (10200),Charges for Services,Resource Recover Revenues,3476901,3264282,3257041,3157190
+DPR,Park and Recreation Fund (10200),Charges for Services,Sales of Merchandise,217242,27284,27284,27284
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Salvage Sales,25905,0,0,0
+DPR,Park and Recreation Fund (10200),Seattle Park District,Seattle Parks District,6462626,13613159,13004145,13882885
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,ST Space Facilities Rentals,5345300,4472662,4428762,4565762
+DPR,Park and Recreation Fund (10200),Intergovernmental,State Grants,-25894,0,0,0
+DPR,Park and Recreation Fund (10200),Miscellaneous Revenue,Telephone Commission Revenue,345,1300,1300,1300
+DPR,Park and Recreation Fund (10200),Transfer City Funds,Transfers from CRS & Parks Levy,8252015,11009636,10881464,10899544
+DPR,Park and Recreation Fund (10200),Use of Fund Balance,Use of Fund Balance,-2512367,809109,1399544,800472
+DPRLEVY,2008 Parks Levy Fund,Grants and Other Revenue,Grants and Other Revenue,5637793,0,0,0
+DPRLEVY,2008 Parks Levy Fund,"Taxes, Levies, & Bonds","Taxes, Levies, & Bonds",682501,130000,40000,21000
+EDLEVY,2011 Families and Education Levy (17857),Levy programs,Interest Earnings,611280,894941,811131,663642
+EDLEVY,2011 Families and Education Levy (17857),Levy programs,"Taxes, Levies, & Bonds",33006482,33257454,33597548,33934150
+EDLEVY,2011 Families and Education Levy (17857),Levy programs,Unrealized Gains/Losses,-64371,0,0,0
+EDLEVY,2011 Families and Education Levy (17857),Levy programs,Use of (Contribution to) Fund Balance,-4518809,916745,3853101,6289258
+ETH,Election Vouchers Fund,Property Tax,REAL & PERSONAL PROPERTY TAX,0,0,3000000,3000000
+ETH,Election Vouchers Fund,Transfers,Use of (contribution to) Fund Balance,0,0,1281316,-2291378
+FAS,2016 Multipurpose LTGO Bond Fund,Other Revenue,2016 Bond Funds - Pike Place Market,0,6000000,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Accounting Director's Office,269836,270650,248973,258269
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Accounting Director's Office,304772,303978,302830,314137
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Animal Adoption Fees,20970,10200,23119,24275
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Animal Control Admin Fees,27238,32640,30029,31530
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Bldg/Other Space Rental Charge,2493469,2211716,1860116,1860116
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Business Licensing,1249017,1653318,1973771,1933000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Cable/Private Reimbursements,95253,120000,20000,20000
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Capital Development and Construction Management,1453,115000,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Capital Development and Construction Management,6946,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Capital Development and Construction Management,4843028,5294146,5530310,5541234
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Capital Development and Construction Management,694266,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Cashier's Overages & Shortages,-1168,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Cat Licenses,317032,419380,378152,350550
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Central Accounting,1065204,1074069,1178882,1209448
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Central Accounting,148995,224983,241313,247570
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Central Accounting,943099,956307,911335,934963
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,City Purchasing,646250,683405,585845,604919
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,City Purchasing,1258709,1331076,1903054,1965016
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Citywide Summit,0,0,3324060,4566558
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Citywide Summit,0,0,3629438,4452303
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Claims Processing,183806,186403,164020,168906
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Claims Processing,472576,479687,519954,535161
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Concert Hall,363258,370523,380876,390232
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Consumer Protection,-13485,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Consumer Protection,717193,740051,4243687,4030575
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Contracting Services,166706,471278,399596,403132
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Contracting Services,3329708,5006444,3938030,4032749
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Customer Service Bureau,387231,323933,324953,334542
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Customer Service Bureau,705396,590091,577528,594570
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Debt Management,122582,123454,97813,99810
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Debt Management,220648,222217,254285,259477
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Department Director,202247,202247,170818,170818
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Department Director,37036,37831,12043,12402
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Distribution Services,388068,411910,429724,440103
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Distribution Services,277042,291760,291760,291760
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Distribution Services,250789,266197,252052,258140
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Dog Licenses,818043,1082420,1184673,1144843
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Economics and Forecasting,201237,185347,175723,180605
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Electronic Records,0,0,463827,463572
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Electronic Records,0,0,446173,445929
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Encampment Clean-Up,0,0,1051188,1052615
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Facilities Maintenance,44291,75000,75000,75000
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Facility Management,2857,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,FAS Accounting,71142,72919,74665,76725
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,FAS Accounting,55742,51637,6530,6737
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,FAS Applications,1813845,1885157,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,FAS Applications,945994,1170940,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,FAS Applications,1285520,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,FAS IT Services,0,0,830800,844321
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,FAS IT Services,0,0,28078,29110
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,FAS IT Services,0,0,1233865,1574104
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,FAS Technology,107472,291270,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,FAS Underspending Rebate,-377612,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Fees - Limo Inspections,36805,37000,37000,37000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Fees - Limo Payment From State,143000,130000,240000,240000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Fees - Taxi/For Hire,18425,59295,20000,20000
+FAS,FileLocal Agency Fund,Other Revenue,File Local Agency Fund Revenue,178288,326394,375952,386950
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Fires - Taxi/For Hire,9805,27885,9805,9805
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Fiscal Policy and Management,933703,937597,1162722,1201411
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Fiscal Policy and Management,161043,171616,172000,176344
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Fiscal Policy and Management,0,0,167102,171326
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Fleet Capital Program,0,0,16853578,17290292
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Fuel Sales,0,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Gan (Loss) Disposition of Fixed Asset - Vehicle Leasing,2181145,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Garden of Remembrance,174349,177836,182805,187296
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Health Care Reductions/Rebate,-143183,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,HRIS,1188745,1352641,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,HRIS,1131182,1287142,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,HRIS,450000,0,0,0
+FBRL,Fiber Leasing Fund,Lease Fees,Lease Fees,0,7024,7091,7162
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Human Resources,0,58331,50104,51567
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Human Resources,31064,68606,6894,7099
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Human Resources,0,112627,95042,97815
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Human Resources,13,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Interest Earnings - Residual Cash,536145,223500,223500,223500
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Investments,169177,172359,208914,213600
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Investments,297740,303342,275827,282013
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Kennel Fees,15590,8160,17188,18047
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Lic Late Fees - Taxi/For Hire,4230,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Licenses - Fore Hire Drivers,185800,137250,192905,192905
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Licenses - Taxi/For Hire,533843,1201300,578843,606343
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Licenses - Tow Operators/Companies,16645,13000,15000,15000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Marijuana Program,40000,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Misc Other Animal Control Fees,72925,81600,80610,84641
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Miscellaneous,520795,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Miscellaneous - Other Revenue,495796,847000,930000,930000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Miscellaneous Fine & Penalties,8500,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Motor Pool,833630,774714,911793,912934
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Nghd Payment & Information Svcs,199505,217649,342420,354477
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Nghd Payment & Information Svcs,1474720,1608835,2180939,2257736
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Nghd Payment & Information Svcs,63172,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Nghd Payment & Information Svcs,11306,10983,11522,11710
+FAS,Finance and Administrative Services Fund (50300),External Revenues,NSF Check Fees,506,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Office of Constituent Services,229807,251774,565739,541115
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Office of Constituent Services,408265,458643,1005469,961707
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Office of Constituent Services,0,300000,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Other Amusement Licenses,64650,80900,65000,65000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Other Judgments & Settlements,3800,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Other Miscellaneous Revenues,658598,751718,741718,726718
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Other Rents & use Charges,12455,11000,11000,11000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Panoram Licenses,1530,4300,1500,1500
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Parking Fees,2154214,2241259,2400000,2400000
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Parking Meter Collections,553620,571768,445513,460227
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Parking Services,727160,686020,686020,686020
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Payroll,967303,978674,997727,1020971
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Payroll,856421,871372,870957,891247
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Penalties on Delinquent Receivable,60,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Penalties on Non-Business Licenses,30,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Penalties-Business Licenses,114427,98800,114000,114000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Photocopy Services,551,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Policy & Budget,30144,31550,7621,7856
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Professional and Occupational Licenses,447746,436000,447746,447746
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Property Management Services,1815245,1680685,1473808,1493328
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Property Management Services,475119,260000,260000,260000
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Property Management Services,178829,154190,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Property Management Services,8504,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Property Management Services,402699,413304,400243,412187
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Property Management Services,5654201,9291602,10126597,10295345
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Property Management Services,47948510,48204276,48996256,49295568
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Property Management Services-Sales of Land &Buildings,5600,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Regulatory Enforcement,1784114,2296021,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Remittance Processing,186916,189701,237511,242784
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Remittance Processing,780935,792571,756259,773049
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Risk Management,253652,254097,217850,222627
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Risk Management,658732,661553,700223,715815
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Sales of Junk or Salvage,32910,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Sales of Merchandise,81084,90000,90000,90000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Scanning Systems License,123026,146425,146425,146425
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Seattle Animal Shelter,116305,251838,124195,127472
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Seattle Animal Shelter,2422051,2534393,2643414,2541096
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Seattle Animal Shelter,0,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Seattle Municipal Tower,536084,545000,545000,545000
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Seattle Municipal Tower,1800,0,0,0
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Shared Accounting Services,112932,117400,74375,76473
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Shared Accounting Services,18202,15371,4924,5051
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Spay and Neuter Clinic,89846,94441,65052,58160
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Spay and Neuter Clinic,140914,100000,50000,50000
+SPL,Library Fund (10410),Levy Support,Library Levy,12859594,13665837,15441161,15711132
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Spay and Neuter Fees,133286,204000,289222,303683
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,SRI Project,0,1235000,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,State Wts & Meas Dev Reg Fees,96863,99955,99955,99955
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,SUMMIT,3232128,3813808,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,SUMMIT,5496511,6485708,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Sundry Recoveries (Kubra CC),196115,0,200000,200000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Surrender Fees,6455,5100,7117,7472
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Tax Administration,3866145,2290720,2239591,2289408
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Tax Administration,-75182,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Telephone Commission Revenues,0,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Tow company Impound Fees,49890,60000,50000,50000
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Tow Company License Late Fees,1140,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Training Charges,0,129375,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Tran Net Co Fees,672305,697000,1922164,2054338
+FAS,Wheelchair Accessible Services Fund,Other Revenue,Transportation Network Company Fees,978821,1250000,1487808,1487808
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Treasury Operations,939608,1016853,856620,874475
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Treasury Operations,1875274,2038662,2269590,2319318
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Treasury Operations,38740,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Treasury Operations,3541,0,0,0
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Unrealized Gains/Losses-Inv GASB31,-45263,0,0,0
+FAS,Central Waterfront Improvement Fund,Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - Central Waterfront Fund,0,2870000,1099000,924000
+FAS,Finance and Administrative Services Fund (50300),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - FAS Operating Fund,3217338,8535536,16070395,7667191
+FAS,FileLocal Agency Fund,Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - FileLocal Agency Fund,0,0,-12000,-12000
+FAS,Wheelchair Accessible Services Fund,Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - Wheelchair Accessible Fund,-723866,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Vehicle Fuel,6337599,10850411,10598233,10682120
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Vehicle Leasing,1066,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Vehicle Leasing,26811813,27903800,11407259,11661915
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Vehicle Leasing,1534069,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Vehicle Maintenance,8033571,8328986,8706388,8901453
+FAS,Finance and Administrative Services Fund (50300),External Revenues,Vehicle Maintenance-Insurance Recoveries-Fixed Ass,2647,0,0,0
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Vehicle Warehousing,3030849,2711357,3003009,3024261
+FAS,Finance and Administrative Services Fund (50300),General Fund Support,Warehousing Services,6396,6541,7600,7694
+FAS,Finance and Administrative Services Fund (50300),Services to City Depts,Warehousing Services,1353037,1383650,1361035,1377921
+FBRL,Fiber Leasing Fund,Fund Management Fees,Fund Management Fees,876,882,889,896
+FBRL,Fiber Leasing Fund,Miscellaneous Revenues,Miscellaneous Revenues,4000,146476,150000,150000
+FBRL,Fiber Leasing Fund,Use of (Contributions to) Fund Balance,Use of (Contributions to) Fund Balance,-1109,618,-2980,-3058
+FFL,2003 Fire Facilities Subfund (34440),Investment Earnings,Investment Earnings,95792,0,0,0
+FFL,2003 Fire Facilities Subfund (34440),Miscellaneous,Miscellaneous - Other Revenues,14135,0,0,0
+FFL,2003 Fire Facilities Subfund (34440),Property Sales,Property Sales,911912,0,0,0
+FFL,2003 Fire Facilities Subfund (34440),Property Tax,Real & Personal Property Tax,17193,0,0,0
+FFL,2003 Fire Facilities Subfund (34440),Miscellaneous,Sale of Junk or Salvage,5449,0,0,0
+FFL,2003 Fire Facilities Subfund (34440),Miscellaneous,Unrealized Gains/Losses,-6773,0,0,0
+FFL,2003 Fire Facilities Subfund (34440),Use of (Contribution To) Fund Balance,Use of (Contribution To) Fund Balance,5513738,2126070,3282513,0
+FISC-RSRV,Emergency Subfund (00185),Oper Tr In Fr GF,Oper Tr-In fr General Fund - EMF,5646198,5148309,1697861,1521358
+FISC-RSRV,"Cumulative Reserve Subfund, Revenue Stabilization Account (00166)",Oper Tr In Fr GF,Operating Tr In-Fr General Fund - RSA,3810000,2223941,2777744,1868939
+FISC-RSRV,Emergency Subfund (00185),Use of Fund Balance,Use of (Contribution to) Fund Balance - EMF,-5646198,-5148309,-1697861,-1521358
+FISC-RSRV,"Cumulative Reserve Subfund, Revenue Stabilization Account (00166)",Use of Fund Balance,Use of (Contribution to) Fund Balance - RSA,-3810000,-2223941,-2777744,-1868939
+FPEN,Firefighters Pension Fund (60200),Other Revenue,Fire Insurance Premium Tax,976057,943500,950000,969000
+FPEN,Firefighters Pension Fund (60200),General Subfund,General Subfund,17311984,17163500,18787000,19481245
+FPEN,Firefighters Pension Fund (60200),Other Revenue,Medicare Rx Subsidy Refund,445054,350000,350000,350000
+FPEN,Firefighters Pension Fund (60200),Other Revenue,Return on Actuarial Account,73361,633825,641000,676000
+FPEN,Firefighters Pension Fund (60200),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,-180775,-633825,-641000,-676000
+HSD,Human Services Operating Fund (16200),Interlocal Grants,City of Seattle / Case Mgmt for Seniors & Adults,0,0,96933,96933
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,City of Seattle / Citizen Kao Private Donation,0,0,600000,0
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,City of Seattle / Sisley Funds,500000,0,0,0
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,City of Seattle / SYVPI Performance Pay,2144,0,0,0
+HSD,Human Services Operating Fund (16200),IF Administrative Fees & Charg,City of Seattle / Utility Rate Assistance,1211187,0,0,0
+HSD,Human Services Operating Fund (16200),IF Administrative Fees & Charg,City of Seattle Office of Housing (OH) / Housing Levy,935163,940341,1796000,1796000
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,City of Seattle Ordinance #120443 / Transfer Development Rights - Child Care Bonus,3784548,500000,500000,500000
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,City of Seattle Ordinance #120907 / Sex Industry Victims Fund - Care and Treatment for Sex Industry Workers,148630,92662,92662,92662
+HSD,Human Services Operating Fund (16200),IF Administrative Fees & Charg,City of Seattle/ RCW 9A.88.14 / Sexual Abuse for Minors,14900,32500,32500,32500
+HSD,Human Services Operating Fund (16200),IF Administrative Fees & Charg,City of Seattle/Energy Assistance Program,0,40000,43527,44576
+HSD,Human Services Operating Fund (16200),IF Administrative Fees & Charg,City of Seattle/Utility Discount Program,0,1649715,1617786,1656793
+HSD,Human Services Operating Fund (16200),Interlocal Grants,Community Health Plan of Washington / Community Health Plan of WA,72051,0,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,Community Health Plan of Washington/Chronic Care /Transitional Care Services,0,150000,0,0
+HSD,Human Services Operating Fund (16200),Fund Balance,Fund Balance,-9034805,2083728,1521210,-897003
+HSD,Human Services Operating Fund (16200),General Fund,General Subfund Support,71810147,77492873,88875739,86297607
+HSD,Human Services Operating Fund (16200),Interlocal Grants,King County / Human Services Levy - Program to Encourage Active Rewarding Lives for Seniors (PEARLS),170453,178000,178001,178000
+HSD,Human Services Operating Fund (16200),Interlocal Grants,King County / Levy funds for Veteran Case Management,213585,177999,178001,178001
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,King County / McKinney Grant,59754,100000,75000,75000
+HSD,Human Services Operating Fund (16200),Interlocal Grants,King County / Safe Harbors - Safe Harbors Levy Replace Fee,118784,175000,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,King County / Safe HarborsHomeless Blck Grnt,110769,125000,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,King County / Vulnerable Population Init,36513,0,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,Paul Allen Foundation / Financial Empowerment Center,611146,600000,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,Public Health Seattle & King County/ Partnerships to Improve Community Health (PICH),52242,60000,0,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,Qualis Health - CDSMP,12955,0,0,0
+HSD,Human Services Operating Fund (16200),IF Administrative Fees & Charg,Seattle Department of Transportation/ Vehicle Licensing Fee & ORCA LIFT,141884,490000,324641,324641
+HSD,Human Services Operating Fund (16200),Interlocal Grants,Seattle Housing Authority (SHA) / New Citizen Initiative,24112,0,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,Seattle Housing Authority (SHA) / SHA-Rapid Rehousing Pilot,283565,0,0,0
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,Seattle Metropolitan Chamber of Commerce / Seattle Chamber of Commerce,208611,0,0,0
+HSD,Human Services Operating Fund (16200),Utility Funds,Seattle Public Utilities (SPU) / Water Energy Assistance Program,38814,0,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,United Way / Safe Harbors Grant,73237,75000,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,United Way / United Way,0,78945,0,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,University of Washington / Reduce Disablity - Alz Disease,6154,0,0,0
+HSD,Human Services Operating Fund (16200),Interlocal Grants,"University of Washington, School of Washington/NW Geriarics Workforce Enhance",4950,0,90102,50000
+HSD,Human Services Operating Fund (16200),Contrib/Priv Sources,US Conference Mayors / US Conference of Mayors,24157,0,0,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Department of Education (DOE) / Upward Bound,465743,415087,435842,435842
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Department of Homeland Security (FEMA) / Urban Area Security Initiative,0,0,111176,113734
+HSD,Community Development Block Grant,Federal Grants - Indirect,US Dept of Housing & Urban Development (HUD) / Community Development Block Grant (CDBG),4882555,4837328,5009251,4809251
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Dept of Housing & Urban Development (HUD) / Emergency Shelter Grants Program (ESGP),956924,866012,819850,819850
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Dept of Housing & Urban Development (HUD) / Housing Opportunities for People with AIDS (HOPWA) Grant,1658292,1770821,1783626,1783388
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Dept of Housing & Urban Development (HUD) / McKinney Grant,11070819,12774344,14261841,14261913
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Dept of Housing & Urban Development (HUD) / McKinney-Safe Harbor HMIS Care Program,433225,403714,0,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,US Dept of Housing & Urban Development (HUD) / Seattle Housing Authority (SHA) Client Case Management,359744,359744,368378,368378
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Dept of Justice (DOJ) / Domestic Violence (DV) Transitional Housing,76265,94700,93772,93772
+HSD,Human Services Operating Fund (16200),Federal Grants - Direct,US Dept of Justice (DOJ) / Grants to Encourage Arrest Policies (GEAP),265234,434155,407204,407204
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Administration on Aging (AoA) - Care Consultation Services for Veteran Directed home services,24636,20000,25000,25000
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Administration on Aging (AoA) - Nutritional Services Incentive Program (NSIP),572461,478669,638783,638783
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / ADRC Enhanced Options Cnslng,148814,0,0,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Chronic Disease Self-Mgmt,26168,0,0,0
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Family Caregivers,3260588,3168117,3125854,3160420
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Federal-for Medicare beneficiary outreach and assistance,34826,0,32471,32471
+HSD,Human Services Operating Fund (16200),Investment Earnings,WA Dept of Social & Health Services (DSHS) / Interest - State Cash Advance,61986,100000,90000,90000
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Kinship Care Navigator,83516,84785,84785,84785
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Kinship Care Support,166377,216316,191317,191316
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Kinship Collaboration Coordination,20033,0,0,0
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Office of Refugee & Immigrant Administration (ORIA) - New Citizenship Initiative (NCI),284631,0,0,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Older Americans Act (OAA) - Elder Abuse Prevention,18387,17891,18375,18375
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Prescription Drugs Information & Assistance,5435,17560,17560,17560
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Respite Home Care Workers' Health Care Insurance & Training,92602,27250,28382,31321
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Respite-AWHI,79222,130716,177849,195634
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Senior Citizens Service Act,2531069,2176999,2148418,2148418
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / State Portion Senior Farmers Market Nutrition,20809,0,21367,21367
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / State Portion-Title XIX New FD,300229,363965,407077,431868
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title III-B - Older Americans Act (OAA) Supportive Services,2047331,2140675,2141487,2141487
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title III-C-1 - Older Americans Act (OAA) Congregate meals,2053277,1738863,2133000,2133000
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title III-C-2 - Older Americans Act (OAA) Home delivered meals,1056504,841567,1130634,1130634
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title III-D - Older Americans Act (OAA) Health promotion,133117,100333,100289,100289
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title III-E - Older Americans Act (OAA) National Family Caregiver,740136,720312,760042,760042
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title XIX - Medicaid Administrative Claiming,1000012,1207735,1054859,1086505
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title XIX - Medicaid Case Mgmt,7691945,8997225,9769842,10364825
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title XIX - Medicaid Home Care Worker Orientation for IP,100828,103314,120994,133093
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title XIX - Medicaid Home Care Worker Training Wages,1064735,1177453,1277682,1405450
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title XIX - Medicaid Nurse Delegation,8823,11916,10588,10694
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / Title XIX - New Freedom,300229,363965,407077,431868
+HSD,Human Services Operating Fund (16200),State Grants,WA Dept of Social & Health Services (DSHS) / Title XIX Medicaid Case Mgmt - State Portion,8719726,8997224,9769842,10364825
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Dept of Social & Health Services (DSHS) / US Dept of Agriculture (USDA) / Senior Farmers Market Nutrition,5757,270372,5701,5701
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Office of Superintendent of Public Instruction (OSPI) / Child and Adult Care Food Program,1157980,1184450,1201650,1201650
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA Office of Superintendent of Public Instruction (OSPI)/ Summer Food Service Program,631659,516388,517000,517000
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,WA State Dept. of Social and Health Services (DSHS)/Dementia Capable Systems Grant,3007,0,33124,0
+HSD,Human Services Operating Fund (16200),Federal Grants - Indirect,Workforce Development Council (WDC) / Workforce Investment Act,506054,0,0,0
+JC,Judgment/Claims Subfund (00126),General Fund Support,General Subfund Support,337906,620842,416820,361854
+JC,Judgment/Claims Subfund (00126),Miscellaneous Revenue,Miscellaneous Revenue,-2963,0,0,0
+JC,Judgment/Claims Subfund (00126),City Operated Utilities,Payments from City-Operated Utilities,5881822,7781749,7781749,7781749
+JC,Judgment/Claims Subfund (00126),General Govt Depts,Payments from General Government Departments,4439525,8156607,8151247,7076376
+JC,Judgment/Claims Subfund (00126),Use of Fund Balance,Use of Fund Balance,4644460,1190253,0,0
+NMF,Neighborhood Matching Subfund (00165),General Subfund Support,Operating Transfer In from Finance General,1557068,3163660,3044196,3069649
+NMF,Neighborhood Matching Subfund (00165),Use of Fund Balance,Use of (Contribution To) Fund Balance,1858966,1613882,1148308,1017677
+OH,Office of Housing (16600),Office of Housing All Else,Bonus/MHA Administration,1256119,1252000,2000000,2000000
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Bonus/MHA Capital,28949752,15000000,18000000,18000000
+OH,Office of Housing (16600),Office of Housing All Else,Challenge Grant,231926,0,0,0
+OH,Office of Housing (16600),Office of Housing All Else,City Light Administration,703914,715000,760000,775000
+OH,Community Development Block Grant,CDBG Grants,Community Development Block Grant,4018966,2221742,1726587,1548547
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Federal Grants - Weatherization,739395,632734,632734,632734
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Federal Grants-HOME Program,6028057,2262246,2262246,2262246
+OH,Office of Housing (16600),Office of Housing All Else,Federal Grants-Weatherization,635011,753226,753226,753226
+OH,Office of Housing (16600),Office of Housing All Else,Fort Lawton Federal Grant,9349,0,0,0
+OH,Office of Housing (16600),Office of Housing All Else,General Subfund Support,345403,401623,138950,143120
+OH,Office of Housing (16600),Office of Housing All Else,HOME Administration,316152,226224,226224,226224
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Investment Earnings,1326983,2000000,2000000,2000000
+OH,Office of Housing (16600),Office of Housing All Else,Levy Administration,1809706,1809704,3566429,3566429
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Local Grants-Weatherization,1469679,1630000,1632000,1665000
+OH,Office of Housing (16600),Office of Housing All Else,MFTE application fees,190000,120000,120000,120000
+OH,Office of Housing (16600),Office of Housing All Else,Miscellaneous Revenue,49265,1000,0,0
+OH,Office of Housing (16600),Office of Housing All Else,Other Rents and Use Charges,24825,12000,0,0
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Program Income,4967280,4000000,4000000,4000000
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Property Tax Levy,17934155,17969417,37862143,37862143
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,State Grants - Weatherization,236742,975000,975000,975000
+OH,Office of Housing (16600),Office of Housing All Else,State Grants-Weatherization,267426,232000,232000,232000
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Unrealized Gains/Losses Investments,-154186,0,0,0
+OH,Low-Income Housing Fund (16400),Low-Income Housing Fund Grants,Use of (Contribution To) Fund Balance,-31353764,-209351,-7546819,-7458997
+OH,Office of Housing (16600),Office of Housing All Else,Use of (Contribution To) Fund Balance,-266742,534561,-1237988,-1087433
+PCTF,Unemployment Insurance Subfunds (00517),Miscellaneous,2015 3rd Quarter Transfer from General Fund,1100000,0,0,0
+PCTF,Group Term Life Insurance Subfund (00628),Miscellaneous,GTF & LTD - Other Funding,11768,10000,10000,10000
+PCTF,Group Term Life Insurance Subfund (00628),Dept. Contributions,GTL & LTD - Department Contributions,657647,829959,871498,915066
+PCTF,Group Term Life Insurance Subfund (00628),Employee Contributions,GTL & LTD - Employee Contributions,5148886,5644616,5927244,6223492
+PCTF,Health Care Subfund (00627),Dept. Contributions,Health Care - Department Contributions,166926748,174420208,183869709,194651165
+PCTF,Health Care Subfund (00627),Employee Contributions,Health Care - Employee Contributions,23920703,25182431,27504016,28879217
+PCTF,Health Care Subfund (00627),Miscellaneous,Health Care - Other Funding,2532787,2228474,2339898,2456893
+PCTF,Industrial Insurance Subfund (00516),Dept. Contributions,Industrial Insurance - Dept Contributions,18111149,19534088,20768608,21534307
+PCTF,Industrial Insurance Subfund (00516),Miscellaneous,Industrial Insurance - Miscellaneous,147776,0,0,0
+PCTF,Special Employment Program Subfund (00515),Miscellaneous,Special Employment Program - Outside Funding,8425,100000,100000,100000
+PCTF,Transit Benefit Subfund (00410),Dept. Contributions,Transit Benefit - Dept Contributions,4503369,5251537,5874000,6232000
+PCTF,Unemployment Insurance Subfunds (00517),Dept. Contributions,Unemployment - Department Contributions,1706878,2217021,1593737,1657076
+PCTF,Group Term Life Insurance Subfund (00628),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - GTL & LTD,-39909,-10000,-10000,-10000
+PCTF,Health Care Subfund (00627),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - Health Care,-10150617,-364202,-3466186,-2723122
+PCTF,Industrial Insurance Subfund (00516),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - Indus. Ins.,-721048,700000,0,0
+PCTF,Special Employment Program Subfund (00515),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - SEP,-5,0,0,0
+PCTF,Unemployment Insurance Subfunds (00517),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance - Unemployment,-1159287,-292021,366667,0
+PGF,Parking Garage Operations Fund (46010),Parking Garage Revenue,Parking Garage Revenue,8195258,8075000,0,0
+PGF,Parking Garage Operations Fund (46010),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,577188,1640574,0,0
+PPEN,Police Relief and Pension Fund (60400),General Subfund,General Subfund,20277855,21313000,21313000,21770367
+PPEN,Police Relief and Pension Fund (60400),Other Revenue,Medicare Rx Subsidy,445363,400000,400000,400000
+PPEN,Police Relief and Pension Fund (60400),Other Revenue,Police Auction Proceeds,258133,117000,117000,117000
+PPEN,Police Relief and Pension Fund (60400),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,429450,0,242712,257288
+RET,Employees' Retirement System Fund,Employee Contributions,Employee Contributions,6294541,8135975,8099250,7726252
+RET,Employees' Retirement System Fund,Employer Contributions,Employer Contributions,9871697,12354027,12346712,11747292
+SCL,City Light Fund,Other,Account Change Fees,2032541,1553100,1568631,1584317
+SCL,City Light Fund,Wholesale Sales,Article 49 Sale to Pend Oreille Country,2146374,2012688,2061552,2110411
+SCL,City Light Fund,Wholesale Sales,Basis Sales,531307,3200004,999996,1000000
+SCL,City Light Fund,Other,BPA Credit for South Fork Tolt,3364720,3103968,3122722,2961495
+SCL,City Light Fund,Other,BPA Payments for Conservation Deferred,2225170,8000000,2500000,0
+SCL,City Light Fund,Other,Capital Fees and Grants,350768,91078,108467,110600
+SCL,City Light Fund,Other,Construction & Miscellaneous Charges,163577,193998,195938,197897
+SCL,City Light Fund,Other,Contributions in Aid of Construction,28896850,37265384,40131952,31140797
+SCL,City Light Fund,Retail Revenue,Energy Sales to Customers,729324824,810741087,848930382,898866356
+SCL,City Light Fund,Other,Federal Subsidies of Interest Payments on Debt,5049119,5045838,5970262,5970262
+SCL,City Light Fund,Other,Interest Earnings,6745624,7426479,7985561,7834446
+SCL,City Light Fund,Other,Late Payment Fees,3501541,3848167,3886649,3925515
+SCL,City Light Fund,Other,North Mountain Substation (Snohomish PUD),246846,411441,415980,420145
+SCL,City Light Fund,Other,Operating Grants,4594504,700000,0,0
+SCL,City Light Fund,Other,Other O&M Revenue,8346435,7748284,7825767,7904025
+SCL,City Light Fund,Wholesale Sales,Other Power Related Services,6988885,7178690,5378966,4608994
+SCL,City Light Fund,Other,Pole Attachments,2553197,2359037,2382627,2406454
+SCL,City Light Fund,Other,Property Rentals,2845033,2602757,2628785,2655072
+SCL,City Light Fund,Other,Reconnect Charges,587959,1122411,1133635,1144971
+SCL,City Light Fund,Other,Reimbursement for CCSS - O&M,0,552430,0,0
+SCL,City Light Fund,Other,Reimbursement for CCSS and NCIS - CIP,0,11560697,0,0
+SCL,City Light Fund,Other,Revenue From Damage,2439139,1659851,1676449,1693214
+SCL,City Light Fund,Other,"Sale of Property, Material & Equip.",1040658,1048511,0,0
+SCL,City Light Fund,Wholesale Sales,Sales from Priest Rapids,3858697,3954552,2326968,2190140
+SCL,City Light Fund,Retail Revenue,Seattle Green Power/GreenUp/Community Solar,1351430,627473,1534974,1571420
+SCL,City Light Fund,Other,Suburban Undergrounding,639670,1158792,1445389,1519338
+SCL,City Light Fund,Wholesale Sales,Surplus Energy Sales,76818975,83202783,84456686,84456686
+SCL,City Light Fund,Other,Transmission Attach. & Cell Sites,1562993,1453034,1467564,1482240
+SCL,City Light Fund,Other,Transmission Sales,5164965,5152008,3000000,3000000
+SCL,City Light Fund,Transfers,Use of (contribution to) Fund Balance,490807552,354461401,333573381,328877501
+SCL,City Light Fund,Other,Use of (Contribution to) Fund Balance due to GSF St Lighting Payments,0,0,0,0
+SCL,City Light Fund,Other,Water Heater & Miscellaneous Rentals,159502,159151,160743,162350
+SDCI,Planning and Development Fund (15700),Installation & Inspection Fees,Boiler,1173313,1247000,1219000,1249000
+SDCI,Planning and Development Fund (15700),Permit Fees,Building Development,34005987,30668000,36091753,33813925
+SDCI,Planning and Development Fund (15700),Permit Fees,Contingent Revenues - Unaccessed,0,8064477,8064477,8064477
+SDCI,Planning and Development Fund (15700),Other Revenues,Cumulative Reserve Fund-REET I - Design Commission,590552,0,0,0
+SDCI,Planning and Development Fund (15700),Other Revenues,Cumulative Reserve Fund-REET I - TRAO,317909,350000,371000,382000
+SDCI,Planning and Development Fund (15700),Other Revenues,Cumulative Reserve Fund-Unrestricted - TRAO,77000,79000,81000,83000
+SDCI,Planning and Development Fund (15700),Permit Fees,Electrical,7615402,7210000,7822136,7399514
+SDCI,Planning and Development Fund (15700),Installation & Inspection Fees,Elevator,3510060,3231000,3741000,3682000
+SDCI,Planning and Development Fund (15700),General Subfund Support,General Subfund Support,11351458,7960167,6537989,6512589
+SDCI,Planning and Development Fund (15700),Grants & MOAs,Grant Revenues,147659,0,0,0
+SDCI,Planning and Development Fund (15700),Interest,Interest,519376,100000,100000,100000
+SDCI,Planning and Development Fund (15700),Permit Fees,Land Use,8081568,6678000,8212885,7896186
+SDCI,Planning and Development Fund (15700),Other Revenues,Other Revenues,5970573,2296000,2442410,2356424
+SDCI,Planning and Development Fund (15700),Other Revenues,Rental Housing Registration,2264208,4645000,888786,668278
+SDCI,Planning and Development Fund (15700),Permit Fees,Site Review & Development,2797425,2342000,2696000,2794000
+SDCI,Planning and Development Fund (15700),Grants & MOAs,SPU MOA for Side Sewer & Drainage,1267643,1200000,1200000,1200000
+SDCI,Planning and Development Fund (15700),Use of Fund Balance,Use of (Contribution To) Fund Balance,-10433488,-3126123,7621667,6857762
+SDOT,Transportation Operating Fund (10310),Taxes,BTG-Employee Hours Tax,4481,0,0,0
+SDOT,Transportation Operating Fund (10310),Taxes,BTG-Property Tax Levy,43607770,0,0,0
+SDOT,Transportation Operating Fund (10310),Taxes,Commercial Parking Tax,33192377,30663579,32838296,34036894
+SDOT,Transportation Operating Fund (10310),Taxes,Commercial Parking Tax-AWV,8123266,7665895,8209574,8509223
+SDOT,Transportation Operating Fund (10310),Grants,Federal Grants,14255956,6536974,4907618,58935377
+SDOT,Transportation Operating Fund (10310),Bonds,G.O. Bond Proceeds,4508326,70120487,53075420,40824644
+SDOT,Transportation Operating Fund (10310),General Fund,General Fund - Other,473587,0,0,0
+SDOT,Transportation Operating Fund (10310),Charges for Service,IF Architecture/Engineering Services,0,204000,3824648,2222000
+SDOT,Transportation Operating Fund (10310),Grants,IF Capital Contributions & Grants,0,11396683,0,0
+SDOT,Transportation Operating Fund (10310),Charges for Service,IF Charges and Fees,214792,654069,1267766,1322408
+SDOT,Transportation Operating Fund (10310),Charges for Service,IF Other Charges - Transportation,22364579,9184181,12484815,12284815
+SDOT,Transportation Operating Fund (10310),Charges for Service,IF Permit Activities,447115,54392,0,0
+SDOT,Transportation Operating Fund (10310),Grants,Interlocal Grants,44721,0,0,0
+SDOT,Transportation Operating Fund (10310),Interest Earnings,Investment Earnings,451708,0,0,0
+SDOT,Transportation Operating Fund (10310),Bonds,Local Improvement District Bonds,0,0,1501000,1410000
+SDOT,Transportation Operating Fund (10310),Charges for Service,Miscellaneous - Other Revenues,10630,2633,2565,2565
+SDOT,Transportation Operating Fund (10310),Taxes,Motor Vehicle Fuel Tax,13546480,13786909,13786909,14632821
+SDOT,Transportation Operating Fund (10310),Taxes,Move Seattle Property Tax Levy,0,94959100,96983601,99008620
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From 2000 Park Levy Fund,273699,0,0,0
+SDOT,Transportation Operating Fund (10310),Bonds,Operating Transfer In-From ALASKA SEA,130418149,37946000,720000,0
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From CEN WF IMP FUND,1877501,0,0,0
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From Cumulative Reserve Subfund - REET I,3163941,6409095,4000000,0
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From Cumulative Reserve Subfund - REET II,18027612,24756000,21017000,4188000
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From Cumulative Reserve Subfund - Street Vacations,3074661,2300000,177000,0
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From Emergency Subfund,0,0,0,0
+SDOT,Transportation Operating Fund (10310),General Fund,Operating Transfer In-From General Fund,39660716,44308048,46058162,44445394
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-From SCL Fund,0,1419835,1437938,10199000
+SDOT,Transportation Operating Fund (10310),Fees,Operating Transfer In-From Transportation Benefit Distric Fund -  $20,7212091,7667662,7961207,7895918
+SDOT,Transportation Operating Fund (10310),Fees,Operating Transfer In-From Transportation Benefit Distric Fund Prop 1 - $60,13711121,22029543,23883620,24301583
+SDOT,Transportation Operating Fund (10310),Taxes,Operating Transfer In-From Transportation Benefit Distric Fund Prop 1 - 1% Sales Tax,17542790,22863627,25215917,25738326
+SDOT,Transportation Operating Fund (10310),Transfers - Other Funds,Operating Transfer In-FromCumulative Reserve Subfund - Unrestricted,985851,0,0,0
+SDOT,Transportation Operating Fund (10310),Charges for Service,Other Charges - Transportation,35393576,56984189,47426383,39828134
+SDOT,Transportation Operating Fund (10310),Charges for Service,Other Private Contributions & Donations,1948634,0,473088,2500000
+SDOT,Transportation Operating Fund (10310),Charges for Service,Permit Fees,5662844,3200725,3250000,3265850
+SDOT,Transportation Operating Fund (10310),Charges for Service,Plan Review & Inspection SDOT,6922850,14000000,9000000,8000000
+SDOT,Transportation Operating Fund (10310),Taxes,Proceeds County-Wide Tax,22266,0,0,0
+SDOT,Transportation Operating Fund (10310),Property Sales,Property Proceeds,0,3909152,9400000,26300000
+SDOT,Transportation Operating Fund (10310),School Zone Camera Funds,School Safety Traffic and Pedestrian Improvement Fund,5834949,8568097,5994239,4152091
+SDOT,Transportation Operating Fund (10310),Grants,State Grants,5501753,1900000,6399951,4227078
+SDOT,Transportation Operating Fund (10310),Charges for Service,Street Maintenance & Repair Charges,2359021,898679,1176674,1176674
+SDOT,Transportation Operating Fund (10310),To Be Determined,To Be Determined,0,0,0,81559000
+SDOT,Transportation Operating Fund (10310),Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,-18280966,-13354848,-1829873,162496
+SDOT,Transportation Operating Fund (10310),Charges for Service,Various Charges,-126235,0,0,0
+SEAIT,Information Technology Fund (50410),Cable Fund,Cable Fund Allocation,0,5357114,9713467,9399960
+SEAIT,Information Technology Fund (50410),LTGO Bonds,Long-Term General Obligation (LTGO) Bonds - MCIS,0,0,2518625,6600400
+SEAIT,Information Technology Fund (50410),LTGO Bonds,Long-Term General Obligation (LTGO) Bonds - Next Generation Data Center,0,0,0,0
+SEAIT,Information Technology Fund (50410),LTGO Bonds,Long-Term General Obligation (LTGO) Bonds - SMT Remodel - IT,0,0,4800000,0
+SEAIT,Information Technology Fund (50410),City Agency - Non-GF,Rates,0,100699,2032892,1402362
+SEAIT,Information Technology Fund (50410),City Agency - Non-GF,Rates,0,856071,1257214,1262933
+SEAIT,Information Technology Fund (50410),External Revenues,Rates,0,267684,361175,363869
+SEAIT,Information Technology Fund (50410),City Agency - Non-GF,Rates - Citywide Department Specific Inititiatives,0,37661803,40866270,30205335
+SEAIT,Information Technology Fund (50410),City Agency - GF,Rates (GF Depts),0,123500,212646,217569
+SEAIT,Information Technology Fund (50410),City Agency - GF,Rates (GF Depts),0,2212841,3123083,3152584
+SEAIT,Information Technology Fund (50410),City Agency - GF,Rates (GF Depts) - Citywide Department Specific Inititiatives,0,13413780,433908,134458
+SEAIT,Information Technology Fund (50410),Special Project Billings,Special Project Billings,0,1396299,12877736,19327295
+SEAIT,Information Technology Fund (50410),City Agency - Non-GF,Technology Allocation,0,14097196,101319117,98469236
+SEAIT,Information Technology Fund (50410),City Agency - GF,Technology Allocation (GF Depts),0,11103153,49003032,50826382
+SEAIT,Information Technology Fund (50410),General Subfund Support,Technology Allocation (pure GF),0,1718340,20481287,18789746
+SEAIT,Information Technology Fund (50410),Use of (Contributions to) Fund Balance,Use of (Contributions to) Fund Balance,0,-4885085,-3509265,-2720151
+SPL,Library Fund (10410),External Support,Cable Franchise Fees,190000,530000,640000,642000
+SPL,Library Fund (10410),"Services, Fines & Fees",Coffee Cart,4010,3000,3000,3000
+SPL,Library Fund (10410),"Services, Fines & Fees",Copy Services,195009,159000,175000,180000
+SPL,Library Fund (10410),"Services, Fines & Fees",Fines and Fees,1440921,1512000,1336000,1288000
+SPL,Library Fund (10410),General Subfund Support,General Subfund Support,49007392,50205639,52321519,53516033
+SPL,Library Fund (10410),"Services, Fines & Fees",Misc. Revenue,12534,3000,3000,3000
+SPL,Library Fund (10410),Parking Garage,Parking Revenue,365636,353000,380000,380000
+SPL,Library Fund (10410),"Services, Fines & Fees",Pay for Print,45849,46000,55000,55000
+SPL,Library Fund (10410),Facility Revenues,Sale of Fixed Assets,52096,43000,55000,55000
+SPL,Library Fund (10410),Facility Revenues,Space Rentals,188355,153000,197500,197500
+SPL,Library Fund (10410),Use of (Contribution To) Fund Balance,Use of (Contribution To) Fund Balance,-985162,549940,-914560,-894930
+SPP,Preschool Services Fund,Levy programs,Investment Earnings,66193,0,0,0
+SPP,Preschool Services Fund,Levy programs,Parent Tuition,0,683367,1541202,2554823
+SPP,Preschool Services Fund,Levy programs,"Taxes, Levies, & Bonds",14391729,14440923,14476260,14505565
+SPP,Preschool Services Fund,Levy programs,Unrealized Gains (Losses),-13805,0,0,0
+SPP,Preschool Services Fund,Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,-12366851,-6086313,-1960658,3541949
+SPU,Water Fund,Water Fund,Build America Bond  Interest Income,1983904,2135334,1983904,1983904
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Build America Bond  Interest Income,1754279,2146436,1747993,1747993
+SPU,Water Fund,Water Fund,Call Center Reimbursement from SCL,2009825,2159788,1694259,1753928
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Call Center Reimbursement from SCL,1950713,2096265,1644428,1702341
+SPU,Solid Waste Fund,Solid Waste Fund,Call Center Reimbursement from SCL,1950713,2096265,1644428,1702341
+SPU,Water Fund,Water Fund,Capital Grants and Contributions,10393558,8294799,4839712,4901355
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Capital Grants and Contributions (excluding donated assets),5083609,1506000,1815257,1382322
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,CGDB Reimbursements (N2418),1489839,1658992,0,0
+SPU,Solid Waste Fund,Solid Waste Fund,Commercial Services,54046480,52710680,58559132,60168172
+SPU,Solid Waste Fund,Solid Waste Fund,Comm'l Disposal (Longhaul) Charges,1159895,487597,709266,780267
+SPU,Water Fund,Water Fund,Decrease (Increase) in Working Capital,11427280,-1445607,-3241219,-1026483
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Decrease (Increase) in Working Capital,1114769,16891605,28457257,37439515
+SPU,Solid Waste Fund,Solid Waste Fund,Decrease (Increase) in Working Capital,-5155174,8088832,-2451143,14865429
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Development services reimbursement (N4371),3337,0,0,0
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Drainage Permit Fees,285645,285645,285645,285645
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Drainage Utility Services,101711526,107150170,118197223,126968005
+SPU,Water Fund,Water Fund,Facilities Charges,1042048,911239,911239,450000
+SPU,Solid Waste Fund,Solid Waste Fund,GF - Various Clean City Prgms,419880,264713,8405612,8505669
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,GIS (N2419),348959,157619,0,0
+SPU,Water Fund,Water Fund,Inventory Purchased by SDOT,0,0,0,0
+SPU,Solid Waste Fund,Solid Waste Fund,KC Reimb for Local Hzrd Waste Mgt Prgm,2445031,2616844,2833615,2836879
+SPU,Water Fund,Water Fund,Op Transfer In - Rev Stab Subfnd - BPA Acct,0,200000,200000,0
+SPU,Water Fund,Water Fund,Op Transfer In - Rev Stab Subfund,-7000000,4500000,5800000,-3700000
+SPU,Solid Waste Fund,Solid Waste Fund,Op Transfer In - Rev Stab Subfund,-2500000,4000000,0,0
+SPU,Solid Waste Fund,Solid Waste Fund,"Operating Fees, Contributions and grants",584409,750000,750000,750000
+SPU,Water Fund,Water Fund,Operating Grants,216752,0,0,0
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Operating Grants,1481900,1598155,500000,500000
+SPU,Solid Waste Fund,Solid Waste Fund,Other Nonoperating Revenue,280,409735,3482,25154
+SPU,Water Fund,Water Fund,Other Non-Operating Revenue,845458,2477707,1775508,1360460
+SPU,Solid Waste Fund,Solid Waste Fund,Other Operating Revenue,221277,144188,45932,27177
+SPU,Water Fund,Water Fund,Other Operating Revenues,2490395,2477957,2496960,2559383
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Other Operating Revenues,408002,98656,422338,426607
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Other Reimbursement for NS activities,1000706,0,846752,859876
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Parks & Other City Depts. (N4405),29645,1126276,71363,74440
+SPU,Water Fund,Water Fund,Public Works Loan Proceeds,7363888,0,3000000,0
+SPU,Solid Waste Fund,Solid Waste Fund,Recycling and Disposal Station Charges,8111904,8980682,10007607,10224741
+SPU,Solid Waste Fund,Solid Waste Fund,Recyling Processing Revenues,342247,0,7061755,7154782
+SPU,Water Fund,Water Fund,Reimbursement for NS activities,460565,0,68128,70050
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,ReLeaf reimbursement - GF,220710,0,243519,248899
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,ReLeaf reimbursement - SCL,71786,83343,90009,91965
+SPU,Water Fund,Water Fund,Rentals--Non-City,632895,606068,600720,615738
+SPU,Solid Waste Fund,Solid Waste Fund,Residential Services,112667164,119255675,125649187,129878917
+SPU,Water Fund,Water Fund,Retail Water Sales,187059286,181874865,186255548,194139357
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,SCL Fund (N4403),947942,235404,796321,821265
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,SDOT Fund (N4404),1660048,3692608,2471169,2555941
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Side Sewer Permit Fees,1703946,1030318,1703946,1703946
+SPU,Water Fund,Water Fund,Tap Fees,8773884,6581000,6663516,6746810
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,"Technical services reimbursement (N4331, N4601)",693158,1500730,724851,735446
+SPU,Solid Waste Fund,Solid Waste Fund,Tonnage Tax Transfer Fee - In City,4113258,4038849,0,0
+SPU,Solid Waste Fund,Solid Waste Fund,Tonnage Tax Transfer Fee - Out City,2013846,2031841,0,0
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Transfer from Construction Fund,72712772,89717758,98867581,124704772
+SPU,Water Fund,Water Fund,Transfers from Construction Fund,23712867,39217360,70595140,76500250
+SPU,Solid Waste Fund,Solid Waste Fund,Transfers from Construction Fund,48327957,25970300,9567350,0
+SPU,Drainage and Wastewater Fund,Drainage and Wastewater Fund,Wastewater Utility Services,257092493,252901185,271128247,273069847
+SPU,Water Fund,Water Fund,Water Service for Fire Protection,8438523,8889680,9338452,9733729
+SPU,Water Fund,Water Fund,Wholesale Water Sales,51173206,48933764,48428606,60654174
+STCAR,Streetcar Fund (10810),Donations,Donation and Service Contributions - SLU,156606,160000,221000,229000
+STCAR,Streetcar Fund (10810),Farebox,Farebox Revenue - First Hill,0,118000,121000,124000
+STCAR,Streetcar Fund (10810),Farebox,Farebox Revenue - South Lake Union,96365,102907,105995,109174
+STCAR,Streetcar Fund (10810),Federal,FTA Funds - First Hill,0,0,0,258185
+STCAR,Streetcar Fund (10810),Federal,FTA Funds - South Lake Union,545578,345000,364808,172123
+STCAR,Streetcar Fund (10810),Misc,IF Other Miscellaneous Revenue,-19290,0,0,0
+STCAR,Streetcar Fund (10810),Leases,LT Space/Facilities Leases,89340,67500,33750,0
+STCAR,Streetcar Fund (10810),Sound Transit,Sound Transit Funds - First Hill,4934299,5000000,5000000,5000000
+STCAR,Streetcar Fund (10810),Sponsorships,Sponsorships - First Hill,0,210000,150000,200000
+STCAR,Streetcar Fund (10810),Sponsorships,Sponsorships - South Lake Union,324073,235497,242562,249838
+STCAR,Streetcar Fund (10810),Fund Balance,Use of (Contribution to) Fund Balance,-394049,-368780,-19115,-682320
+SZF,School Safety Traffic and Pedestrian Improvement Fund,Interest Earnings,Interest Earnings,35416,0,0,0
+SZF,School Safety Traffic and Pedestrian Improvement Fund,Red Light Cameras,Red Light Camera - 10% School,0,409801,425000,400000
+SZF,School Safety Traffic and Pedestrian Improvement Fund,School Cameras,School Camera Infraction Revenue,5799533,8158296,8171424,5931304
+SZF,School Safety Traffic and Pedestrian Improvement Fund,Use of (Contribution to) Fund Balance,Use of (Contribution to) Fund Balance,-298040,268925,-414628,33343
